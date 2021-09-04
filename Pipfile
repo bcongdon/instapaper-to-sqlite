@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+click = "*"
+requests = "*"
+sqlite-utils = "~=3.17"
+pyinstapaper = {editable = true, git = "https://github.com/bcongdon/pyinstapaper"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
