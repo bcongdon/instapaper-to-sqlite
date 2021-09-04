@@ -1,13 +1,14 @@
 # instapaper-to-sqlite
 
-[![PyPI](https://img.shields.io/pypi/v/instapaper-to-sqlite.svg)](https://pypi.org/project/instapaper-to-sqlite/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/bcongdon/instapaper-to-sqlite/blob/master/LICENSE)
 
 Save bookmarks from Instapaper to a SQLite database.
 
 ## How to install
 
-    $ pip install instapaper-to-sqlite
+    $ git clone https://github.com/bcongdon/instapaper-to-sqlite
+    $ cde instapaper-to-sqlite
+    $ pip install .
 
 ## Authentication
 
